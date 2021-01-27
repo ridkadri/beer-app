@@ -1,2 +1,2 @@
-# beer-app
-Beer App built with HTML,CSS and Javascript pulls information from the Beer Api and allows you to filter by Alcohol strength and Hoppiness :)
+# beer-app 🍺
+Click on Alcohol Vol(ABV) variations as well as Hoppiness(IBU) variations to get desired results by filter
